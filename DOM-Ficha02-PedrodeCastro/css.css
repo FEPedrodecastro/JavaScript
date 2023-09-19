@@ -1,0 +1,15 @@
+button {
+    padding:  20px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 500px;
+  }
+
+#increaseFontSizeButton, #decreaseFontSizeButton {
+  display: none;
+}
+
+body{
+  background: rgb(59, 58, 58);
+  color: orange;
+}
